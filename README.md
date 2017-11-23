@@ -13,3 +13,8 @@
 # danskernesdigitalebibliotek.github.io
 Test page
 -->
+
+## Contact <a name="contact"/>
+
+For further information please contact 
+[Erik Bachmann Pedersen, DDB](mailto:ddb@slks.dk?Subject=[danskernesdigitalebibliotek.github.io]@ebp&Body=).
