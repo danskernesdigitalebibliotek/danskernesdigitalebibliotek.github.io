@@ -1,4 +1,7 @@
+<img src="DDB_logo_green.300.png" alt="DDB" title="DDB" align="right">
+<!--
 ![DDB](DDB_logo_green.300.png)
+-->
 
 # Index to Danskernes Digitale Bibliotek
 (AKA [The Danish Digital Library](https://www.danskernesdigitalebibliotek.dk/english/) (DDL)
