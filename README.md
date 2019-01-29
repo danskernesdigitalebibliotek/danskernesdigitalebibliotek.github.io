@@ -7,6 +7,7 @@
 (AKA [The Danish Digital Library](https://www.danskernesdigitalebibliotek.dk/english/) (DDL)
 
 ## Projects
+* [Architecture](/architecture/) 
 * [OpenPlatform](/OpenPlatform/) 
 * [AccessPlatform](/AccessPlatform/) 
 * [Google2CQL (experimental)](/google2cql/)
