@@ -2,13 +2,12 @@
 <html lang="en">
 <head>
     <title>js-sequence-diagrams example</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
     <script src="http://www.javascriptoo.com/application/html/js/bramp/js-sequence-diagrams/sequence-diagram-min.js"></script>
 </head>
 <body>
-    style="display: none"
-  <pre id="uml" >
+  <pre id="uml" style="display: none">
 Title: This is a title
 Joe->github: What is interesting?
 github->Joe: Here is some stuff
@@ -20,6 +19,5 @@ Joe->JSOO:Best guess example
   var diagram = Diagram.parse(document.getElementById('uml').innerText);
   diagram.drawSVG("diagram", {theme: 'hand'});
 </script>
-    <hr>
 </body>
 </html>
