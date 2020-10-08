@@ -3,8 +3,10 @@
 ![DDB](DDB_logo_green.300.png)
 -->
 
-# Index to Danskernes Digitale Bibliotek
+# Index to *Danskernes Digitale Bibliotek*
 (AKA [The Danish Digital Library](https://www.danskernesdigitalebibliotek.dk/english/) (DDL)
+
+*Danskernes Digitale Bibliotek* has transformed into *Det Digitale Folkebibliotek* (_The Digital Public Library_). However - the domain for source and documentation has not changed.
 
 ## Projects
 * [Architecture](/architecture/) 
@@ -22,4 +24,4 @@ Test page
 ## Contact <a name="contact"/>
 
 For further information please contact 
-[Erik Bachmann Pedersen, DDB](mailto:ddb@slks.dk?Subject=[danskernesdigitalebibliotek.github.io]@ebp&Body=).
+[Det Digitale Folkebibliotek](mailto:kontakt@DetDigitaleFolkebibliotek.dk?Subject=[danskernesdigitalebibliotek.github.io]@ebp&Body=).
