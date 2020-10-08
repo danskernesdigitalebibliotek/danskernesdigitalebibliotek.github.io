@@ -1,14 +1,9 @@
-<img src="DetDigitaleFolkebibliotek.blue.300x44.png" alt="Det Digitale Folkebibliotek" title="Det Digitale Folkebibliotek" align="right">
-<img src="DDB_logo_green.300.png" alt="DDB" title="DDB" align="right" width=100px height=auto>
 
-<!--
-![DDB](DDB_logo_green.300.png)
--->
 
-# Index to *Danskernes Digitale Bibliotek*
-(AKA [The Danish Digital Library](https://www.danskernesdigitalebibliotek.dk/english/) (DDL)
 
-*Danskernes Digitale Bibliotek* has transformed into *Det Digitale Folkebibliotek* (_The Digital Public Library_). However - the domain for source and documentation has not changed.
+# Index to Det Digitale Folkebibliotek
+
+*Danskernes Digitale Bibliotek* (AKA [The Danish Digital Library](https://www.danskernesdigitalebibliotek.dk/english/) (DDL) has transformed into *Det Digitale Folkebibliotek* (_The Digital Public Library_). However - the domain for source and documentation has not changed.
 
 ## Projects
 * [Architecture](/architecture/) 
