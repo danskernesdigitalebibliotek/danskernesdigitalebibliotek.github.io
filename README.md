@@ -1,4 +1,4 @@
-<img src="DetDigitaleFolkebibliotek.blue.500x74.png" alt="Det Digitale Folkebibliotek" title="Det Digitale Folkebibliotek" align="right">
+<img src="DetDigitaleFolkebibliotek.black.500x74.png" alt="Det Digitale Folkebibliotek" title="Det Digitale Folkebibliotek" align="right">
 
 
 
