@@ -1,0 +1,202 @@
+{
+    "Lange titler": {
+        "issue": "",
+        "examples": {
+            "870970-basis:50273326": {
+                "title": "<b>Danske Studier</b>",
+                "issue": "Hovedposten p\u00e5 'Danske Studier' 870970-basis:50273326 kan IKKE sl\u00e5s op i hverken Netpunkt.dk eller Bibliotek.dk. <br>I stedet m\u00e5 man anvende: is=0106-4525 AND nr=50273326 Dette fungerer i Netpunkt.dk, Bibliotek.dk og Open Search, men IKKE i OpenPlatform/Search"
+            },
+            "870970-basis:29527253": {
+                "title": "<b>Descendenterne (f\u00f8dte i juridisk \u00e6gteskab) efter Mads Jacobsen Tvermoes, f. 26. sept. 1768, d. 23. maj 1817, H\u00f8rkr\u00e6mmer i K\u00f8benhavn, Oldermand for H\u00f8rkr\u00e6mmernes Laug, V\u00e6rge for Trinitatis Kirke, Stadens eligerede Borger, Kgl. Agent, R. af Dbg., og Hustru Anna Catharina Mohr, f. i Ystad 21. aug. 1764, d. 29. november 1838</b>",
+                "issue": "L\u00e6ngde: 323 fuldtitel"
+            },
+
+            "875480-katalog:000010798": {
+                "title": "<b>Midlertidig beskyttelse i et internationalt asylretligt perspektiv : om flygtningebegrebet i international asylret og de asylretlige konsekvenser af massive flygtningestr\u00f8mme, herunder om den internationale fortolkning af princippet om non-refoulement og midlertidig beskyttelse i et internationalt asylretligt perspektive</b>",
+                "issue": "L\u00e6ngde: 323"
+            },
+            "870970-basis:45798860": {
+                "title": "<b>Forf\u00e6drene til skomagermester i Kerteminde Christian Clausen : Dragstedsl\u00e6gten fra Halland : herredsfogedsl\u00e6gten fra Borum i Jylland : Bangsl\u00e6gten fra Assens : Paysensl\u00e6gten fra Slesvig og Frisland : Ottenb\u00FCttel-Krummendieksl\u00e6gten fra Holsten : Skram og Juelsl\u00e6gterne fra Sydslesvig : samt alle de andre</b>",
+                "issue": "L\u00e6ngde: 304"
+            },
+            "800010-katalog:99122717097005763": {
+                "title": "<b>Stamtavler over Efterkommerne efter Ole Berendt Suhr, f. 16/1 1762 † 25/9 1815 og Dorothea Suhr, f. Beckmann, f. 30/9 1759 † 22/9 1842. Udarb. paa Grundlag af den Suhrske Stiftelses Protokol over Familjens Medlemmer og afsluttede i Oktober 1901. Udg. af den Suhrske Stiftelses Direktion</b>",
+                "issue": "L\u00e6ngde: 287"
+            },
+
+            "911130-katalog:120410792": {
+                "title": "<b>Aalajangiussimasat nalunaarusiorneret akuerisaq aalisarneq pillugu protokol-it sisamaasa qiteqqunnerani isumaqatigiinniutigineranni illuatungaani Det erup\u00e6iske f\u00e6llesskab illuatungaanilu qallunaat naalakkeruisui kiisalu kalaallit nunaanni namminersornerusut, Athen 16. - 18. juni 2003</b>",
+                "issue": "L\u00e6ngde: 285"
+            },
+
+            "870970-basis:43682938": {
+                "title": "<b>Kaar\u00f8e familien og tilh\u00f8rende familier : Kaar\u00f8e, Car\u00f8e, Caroe : med afsnit til slut af Hans Hansen Car\u00f8es kone Maren Schnell's familie tilbage til Jeppe auf der Bohle : andre familier Ammitzb\u00f8ll, Bojsen-M\u00f8ller, Hauch, Hirch, Kierulff, Lun\u00f8e, Ravn, Schi\u00f8tz, Trock-Jansen og andre</b>",
+                "issue": "L\u00e6ngde: 279"
+            },
+
+            "860100-katalog:000080561__6": {
+                "title": "<b>Beretning afgivet af Blekingegade-kommissionen : kommissionen til unders\u00f8gelse af centrale myndigheders rolle i Blekingegade-sagen : Kapitel 3 og 4 : 3.8 K\u00f8bmagergade, 3.9 Straffelovens § 114, 3.10 Tayseer Kubaa, Opsummering af kommissionens konklusioner mv.</b>",
+                "issue": "L\u00e6ngde: 259"
+            }
+        }
+    },
+    "Flerbindsv\u00e6rker": {
+        "issue": "V\u00e6rker: De enkelte bind med hver deres titel (og emne) er matchet ind i samme v\u00e6rk; det kan man ikke udlede fra visningen p\u00e5 s\u00f8geresultatsiden",
+        "examples": {
+            "870970-basis:22264303": {
+                "title": "Verdens historie",
+                "issue": ""
+            }
+        }
+    },
+    "Almindelige v\u00e6rkklynger": {
+        "issue": "Stan\u00e6r (materiale der kun kan benyttes p\u00e5 biblioteket), branch=sta",
+        "examples": {
+            "870970-basis:": {
+                "title": "",
+                "issue": ""
+            }
+        }
+    },
+    "Relationer": {
+        "issue": "",
+        "examples": {
+            "870970-basis:29572038": {
+                "title": "\u201cDe her dage\u201d af af Marie Key",
+                "issue": ""
+            },
+            "870970-basis:51280431": {
+                "title": "\u201cHvis det er\u201d af Helle Helle (2014)",
+                "issue": ""
+            }
+        }
+    },
+    "Infomedia anmeldelser": {
+        "issue": "kr\u00e6ver at InfoMedia er sl\u00e5et til for den anvendte s\u00f8geprofil",
+        "examples": {
+            "870970-basis:26684307": {
+                "title": "\u201cM\u00e6rkedage\u201d af Jens Sm\u00e6rup S\u00f8rensen",
+                "issue": ""
+            },
+            "870970-basis:25034732": {
+                "title": "\u201c\u00d8mme dupper\u201d af Gertrude Stein",
+                "issue": ""
+            }
+        }
+    },
+    "Infomedia artikel": {
+        "issue": "kr\u00e6ver at InfoMedia er sl\u00e5et til for den anvendte s\u00f8geprofil",
+        "examples": {
+            "870970-basis:??": {
+                "title": "\u201cDen Internationale Straffedomstol : et skridt mod en mere fredelig verden\u201d af Jesper Ryberg",
+                "issue": ""
+            }
+        }
+    },
+    "\u00c5rb\u00f8ger": {
+        "issue": "",
+        "examples": {
+            "870970-basis:06605133": {
+                "title": "Siegs m\u00f8ntkatalog",
+                "issue": ""
+            },
+            "870970-basis:06612504": {
+                "title": "Hvem hvad hvor",
+                "issue": ""
+            }
+        }
+    },
+    "Tidsskrifter": {
+        "issue": "",
+        "examples": {
+
+
+            "870970-basis:50273326": {
+                "title": "<b>Danske Studier</b>",
+                "issue": "Hovedposten p\u00e5 Danske Studier 870970-basis:50273326 kan IKKE sl\u00e5s op i hverken Netpunkt.dk eller Bibliotek.dk. I stedet m\u00e5 man anvende: is=0106-4525 AND nr=50273326 Dette fungerer i Netpunkt.dk, Bibliotek.dk og Open Search, men IKKE i OpenPlatform/Search"
+            },
+            "870970-basis:06373674": {
+                "title": "Alt for damerne",
+                "issue": ""
+            },
+            "870970-basis:06557872": {
+                "title": "Kritik",
+                "issue": ""
+            },
+            "870970-basis:": {
+                "title": "Collezioni donna",
+                "issue": "pga specialtegn \/ i nr"
+            }
+        }
+    },
+    "Indhold og bidragsydere": {
+        "issue": "",
+        "examples": {
+            "870970-basis:51141970": {
+                "title": "",
+                "issue": "Node: Vi kan pt ikke vise indholdet "
+            },
+            "870970-basis:51689917": {
+                "title": "Node: <b>Orgel album (Ved Lasse Toft Eriksen)<\/b> \/ Af Carl Nielsen (f. 1865) (2014)",
+                "issue": "Node: Indhold vises ikke"
+            },
+            "870970-basis:50669270": {
+                "title": "Cd (musik): <b>Die grossen Verdi-Interpreten<\/b> \/ Af Giuseppe Verdi (2013)",
+                "issue": "Visning af bidragsyderne og indhold (detaljer om materialet)"
+            }
+        }
+    },
+    "Beskrivelser": {
+        "issue": "",
+        "examples": {
+            "870970-basis:": {
+                "title": "",
+                "issue": ""
+            }
+        }
+    },
+    "Tegns\u00e6t": {
+        "issue": "æøå",
+        "examples": {
+
+            "870970-basis:46838084": {
+                "title": "<b>Σ(No,12k,Lg,17Mif) New Order + Liam Gillick - So it goes</b><br> CMS: Cd (musik): Σ(N↓o↑,12k,L↓g↑,17M↓if↑) New Order + Liam Gillick - So it goes - Af New Order (2019)",
+                "issue": "Unicode - sub og sup script"
+            },
+            "870970-basis:27381464": {
+                "title": "Bog: <b>Hvordan soldaten reparerer grammofonen : roman</b> / Af Saša Stanišić (2008)",
+                "issue": "Dobbelt tegn:  š"
+            },
+            "800010-katalog:99122699621105763": {
+                "title": "Aṣṭādhyāyī of Pāṇini : [transl. and] in Roman transliteration",
+                "issue": "Dobbelt tegn"
+            },
+
+            "150061-ebog:ODN0001286159": {
+                "title": "Ebog. <b>Divas, dames & daredevils : Lost Heroines of Golden Age Comics<\/b> (Engelsk) \/ Af Mike Madrid (2013)",
+                "issue": "Unicode i resume: &amp;#8482;    (TM), &amp;#8212;    \u2014 (Em Dash)"
+            },
+            "150061-ebog:ODN0004936423": {
+                "title": "Ebog: <b>Then the fish swallowed him<\/b> (Engelsk) \/ Af Amir Ahmadi Arian (2020)",
+                "issue": "Unicode i resume: &amp;#8212;    \u2014 (Em Dash)"
+            }
+        }
+    },
+    "Sprogvarianter": {
+        "issue": "Eksempel p\u00e5 en helt enslydende titel, nemlig \"Inferno\" p\u00e5 hhv dansk og engelsk. Hvorfor det er vigtigt at vise sprog:\r\n<a href=\"https:\/\/www.aakb.dk\/search\/ting\/inferno?&facets%5B%5D=facet.creator%3Adan%20brown\">facet.creator%3Adan%20brown<\/a>",
+        "examples": {
+            "870970-basis:29953104": {
+                "title": "V\u00e6rk: <b>Inferno<\/b> \/ Af Dan Brown (2013)",
+                "issue": "Online: Ebog, Lydbog (net), Bog, Lydbog (cd), Lydbog (cd-mp3)<br>Er en bog online ikke lig med en Ebog?"
+            },
+            "870970-basis:45351610": {
+                "title": "V\u00e6rk: <b>Inferno<\/b> (Engelsk) \/ Af Dan Brown (2013)",
+                "issue": "Online: Ebog Lydbog (net)Bog"
+            },
+            "870970-basis:52666325": {
+                "title": "V\u00e6rk: <b>Inferno<\/b> \/ Af Ron Howard, Salvatore Totino, David Koepp (2017)",
+                "issue": "Tilg\u00e6ngelig: Dvd, Blu-ray"
+            }
+        }
+    }
+}
