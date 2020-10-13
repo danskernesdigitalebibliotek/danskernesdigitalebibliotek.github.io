@@ -1,6 +1,6 @@
 {
     "Lange titler": {
-        "issue": "Værker med meget lange titler",
+        "issue": "",
         "examples": {
             "870970-basis:50273326": {
                 "title": "<b>Danske Studier</b>",
@@ -196,6 +196,51 @@
             "870970-basis:52666325": {
                 "title": "V\u00e6rk: <b>Inferno<\/b> \/ Af Ron Howard, Salvatore Totino, David Koepp (2017)",
                 "issue": "Tilg\u00e6ngelig: Dvd, Blu-ray"
+            }
+        }
+    },
+    "Mange emner": {
+        "issue": "Ekstraordinært mange emneord",
+        "examples": {
+            "870970-basis:47090121": {
+                "title": "<b>Diderik Buxtehude : 'der grosse Däne'</b> / Mogens Wenzel Andreasen<br>Anmeldelser: Om barokkomponisten og organisten Diderik Buxtehude (1637-1707), der havde sit virke i Helsingør og Lübeck. Med gennemgang af Buxtehudes værker, der kan høres i udvalg på cd'en",
+                "issue": "25 emner<br>Emne: Buxtehude, Diderik, barok, kirkemusik, kantate, messe, kammermusik, triosonate, orgelkoral, vokal, kor, alt, tenor, bas, instrumental, orgel, 1650-1659, 1660-1669, 1670-1679, 1680-1689, 1690-1699, Tyskland, Danmark, komponister, organister"
+            },
+            "870970-basis:25652509": {
+                "title": "<b>Suite italienne</b> / Igor Stravinskij",
+                "issue": "30 emner<br>Emne: neoklassik, balletsuite, cellosuite, arrangement, kammermusik, instrumental, violoncel, cello, 1920-1929, 1930-1939, Rusland, neoklassik, kammermusik, cellosonate, arrangement, balletmusik, instrumental, violoncel, cello, 1940-1949, 1950-1959, Rusland, neoklassik, kammermusik, cellosonate, instrumental, violoncel, cello, 1930-1939, Rusland<p><dir>Bemærk gentagelser pga brug af delfelt <a href='https://metadata.dk/specifikation-dbc-s-anvendelse-delfelt-a'>*å</a>"
+            },
+            "870970-basis:23340704": {
+                "title": "<b>Sonate for violoncel og klaver nr. 1, e-mol, opus 38</b> / Johannes Brahms",
+                "issue": "26 emner<br>Emne: senromantik, kammermusik, cellosonate, instrumental, cello, violoncel, 1860-1869, 1880-1889, Tyskland, romantik, kammermusik, cellosonate, instrumental, cello, violoncel, 1840-1849, Polen, senromantik, kammermusik, cellosonate, instrumental, cello, violoncel, 1880-1889, Frankrig, Belgien"
+            },
+            "800010-katalog:99121947672605763": {
+                "title": "<b>Edvard Grieg : Norges store komponist</b> / Mogens Wenzel Andreasen. Anmeldelser: Biografi over den norske komponist Edvard Grieg (1843-1907) som privatperson og professionel. Med gennemgang af hans værker",
+                "issue": "23 emner<br>Emne: Grieg, Edvard, senromantik, nationalromantik, kammermusik, cellosonate, arrangement, instrumental, kammerensemble, klaver, cello, violoncel, kammerorkester, strygeorkester, orkester, 1860-1869, 1870-1879, 1880-1889, 1890-1899, Norge., komponister., biografier., historiske optagelser."
+            },
+            "800010-katalog:99122911512205763": {
+                "title": "<b>Joseph Haydn : wienerklassicismens grundlægger</b> / Mogens Wenzel Andreasen<br>Beskrivelse: Portræt af komponisten Joseph Haydn (1732-1809) med gennemgang af hans liv og væsentligste værker. Cd'en indeholder indspilninger af både kendte og mindre kendte kompositioner",
+                "issue": "30 emner<br>Emne: Haydn, Joseph, wienerklassik, klassik, ouverture, operaouverture, symfoni, dobbeltkoncert, kammermusik, klaversonate, cembalosonate, sange, instrumental, orkester, strygekvartet, klaver, cembalo, orgel, violin, vokal, sopran, 1760-1769, 1770-1779, 1780-1789, 1790-1799, Østrig, komponister, Wien, 1700-1799, 1800-1809"
+            },
+            "870970-basis:54092849": {
+                "title": "<b>Joseph Haydn : wienerklassicismens grundlægger</b> / Mogens Wenzel Andreasen<br>Beskrivelse: Portræt af komponisten Joseph Haydn (1732-1809) med gennemgang af hans liv og væsentligste værker. Cd'en indeholder indspilninger af både kendte og mindre kendte kompositioner",
+                "issue": "30 emner<br>Emne: Haydn, Joseph, wienerklassik, klassik, ouverture, operaouverture, symfoni, dobbeltkoncert, kammermusik, klaversonate, cembalosonate, sange, instrumental, orkester, strygekvartet, klaver, cembalo, orgel, violin, vokal, sopran, 1760-1769, 1770-1779, 1780-1789, 1790-1799, Østrig, komponister, Wien, 1700-1799, 1800-1809"
+            },
+            "870970-basis:": {
+                "title": "",
+                "issue": ""
+            },
+            "870970-basis:": {
+                "title": "",
+                "issue": ""
+            },
+            "870970-basis:": {
+                "title": "",
+                "issue": ""
+            },
+            "870970-basis:": {
+                "title": "",
+                "issue": ""
             }
         }
     }
