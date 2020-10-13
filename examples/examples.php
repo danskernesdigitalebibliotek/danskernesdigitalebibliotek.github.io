@@ -44,7 +44,9 @@ $urls	= [
 	'upgrade-fbs'	=> 'https://upgrade-fbs.ddbcms.dk/search/ting/',
 ];
 
-$ref	= json_decode( file_get_contents( "examples.json" ), TRUE, 512, JSON_OBJECT_AS_ARRAY |JSON_THROW_ON_ERROR );
+$data	= 'https://danskernesdigitalebibliotek.github.io/examples/examples.json';
+//$data	= "examples.json";
+$ref	= json_decode( file_get_contents( $data ), TRUE, 512, JSON_OBJECT_AS_ARRAY |JSON_THROW_ON_ERROR );
 $PID	= FALSE;
 
 echo "<h1>Eksempelposter</h1>\n";
