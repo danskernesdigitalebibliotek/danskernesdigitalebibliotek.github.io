@@ -178,7 +178,7 @@
     "Serier": {
         "issue": "",
         "examples": {
-            "/search/ting/phrase.titleSeries%3D"harry%20potter%20og%20de%20vises%20sten": {
+            "/search/ting/phrase.titleSeries%3D\"harry%20potter%20og%20de%20vises%20sten\"": {
                 "title": "Harry Potter og de vises sten",
                 "issue": ""
             },
@@ -186,7 +186,7 @@
                 "title": "Troldepus",
                 "issue": "Forskellig serienummerering"
             },
-            "/search/ting/phrase.titleSeries%3D"millennium%20": {
+            "/search/ting/phrase.titleSeries%3D\"millennium%20\": {
                 "title": "Millenium",
                 "issue": "Sammenblandede serier og afvigelser i serietitel + nummerering"
             },
