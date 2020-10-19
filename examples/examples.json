@@ -186,7 +186,7 @@
                 "title": "Troldepus",
                 "issue": "Forskellig serienummerering"
             },
-            "/search/ting/phrase.titleSeries%3D\"millennium%20\": {
+            "/search/ting/phrase.titleSeries%3D\"millennium%20\"": {
                 "title": "Millenium",
                 "issue": "Sammenblandede serier og afvigelser i serietitel + nummerering"
             },
