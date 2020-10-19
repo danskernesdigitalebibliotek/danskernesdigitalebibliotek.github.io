@@ -146,10 +146,72 @@
             }
         }
     },
-    "Beskrivelser": {
+    "Se online-knap": {
         "issue": "",
         "examples": {
-            "870970-basis:": {
+            "870970-basis:29247587": {
+                "title": "Ebog. <b>Nationens fornemmelse for kød : opskrifter, gode råd og meninger med kød på</b> (2011)",
+                "issue": "Dødt link"
+            },
+            "870970-basis:47382335": {
+                "title": "Ebog. <b>Cybercrime - når kriminaliteten rykker online</b> (2018)",
+                "issue": "Ebog (Pjese)"
+            },
+            "870970-basis%3A53626785": {
+                "title": "<b>Rettigheder online/offline</b>",
+                "issue": "Materialesamling. Link til site"
+            },
+            "": {
+                "title": "",
+                "issue": ""
+            },
+            "": {
+                "title": "",
+                "issue": ""
+            },
+            "": {
+                "title": "",
+                "issue": ""
+            }
+        }
+    },
+    "Serier": {
+        "issue": "",
+        "examples": {
+            "/search/ting/phrase.titleSeries%3D"harry%20potter%20og%20de%20vises%20sten": {
+                "title": "Harry Potter og de vises sten",
+                "issue": ""
+            },
+            "/search/ting/troldepus?": {
+                "title": "Troldepus",
+                "issue": "Forskellig serienummerering"
+            },
+            "/search/ting/phrase.titleSeries%3D"millennium%20": {
+                "title": "Millenium",
+                "issue": "Sammenblandede serier og afvigelser i serietitel + nummerering"
+            },
+            "870970-basis%3A53237339": {
+                "title": "<b>Den sorte engel</b> : krimi / Af Nina von Staffeldt (2017)",
+                "issue": "Flere serietitler: En Sika Haslund krimi ; Krimiserien med Sika Haslund : 2 ;"
+            },
+            "870970-basis%3A27652816": {
+                "title": "Bog. <b>Nedtælling</b> / Af Liza Marklund (2009)",
+                "issue": "Flere titler og serier: Serie: En Annika Bengtzon krimi ; Rosinante pocket ; Rosinante krimi ; Krimiserien med Annika Bengtzon : 4 ;"
+            },
+            "": {
+                "title": "",
+                "issue": ""
+            }
+        }
+    },
+    "Mærkelige poster": {
+        "issue": "",
+        "examples": {
+            "870970-basis%3A53660878": {
+                "title": "Bog. <b>Garri Potter i prokljatoe ditja : chasti pervaja i vtoraja</b> / Af Joanne K. Rowling (2017)<br>Serie. 8. del af: Harry Potter og De Vises Sten",
+                "issue": "Titel og indhold på russisk, men alle metadata på dansk, fx resumé og serietitel"
+            },
+            "": {
                 "title": "",
                 "issue": ""
             }
