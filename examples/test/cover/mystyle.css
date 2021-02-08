@@ -1,0 +1,139 @@
+
+:root {
+  --max-width: 300px;
+  --max-height: 300px;
+}
+
+
+.logo {
+  /*filter: grayscale(100%);*/
+  /*filter: brightness(210%) /*saturate(140%);*/
+  /*max-width: 300px;*/
+  max-width: var(--max-width);
+  height: auto;
+  /*opacity: 0.5;	/* https://www.w3schools.com/css/css_image_transparency.asp */
+  float: right;
+  /*padding-right: 10px;*/
+}
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  color: black;
+  background-color: green;
+  background-color: lightgray;
+  background-color: #E5E4E2;
+  max-width: var(--max-width);
+  max-height: var(--max-height);
+  height: auto;
+  /*height: 300px;*/
+  float: left;
+  float: right;
+  border-style: ridge;
+  clear: both;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 1px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color: white;
+  color: black;
+/*  background-color: green;
+  background-color: lightgray;*/
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.title {
+	font-size: 120%;
+	font-weight: strong;
+	color: pink;
+	color: darkblue;
+	/*background-color: #B6B6B4;*/
+}
+
+.overlayentity {
+	background-color: #B6B6B4;
+	background-color: #D1D0CE;
+}
+
+.release::before {
+    content: " (";
+	/*background-color: #B6B6B4;*/
+}
+.release::after {
+    content: ") ";
+	/*background-color: #B6B6B4;*/
+}
+.release {
+	font-size: 120%;
+    content: ") ";
+	/*background-color: #B6B6B4;*/
+}
+
+.creator::before {
+    content: " / ";
+	/*background-color: #B6B6B4;*/
+}
+
+.creator {
+	font-size: 120%;
+	/*font-weight: strong;*/
+	color: yellow;
+	color: black;
+	/*background-color: gray;*/
+	/*background-color: #B6B6B4;*/
+}
+
+/* The overlay effect - lays on top of the container and over the image */
+.overlay {
+  position: absolute;
+/*  bottom: 0;*/
+top: 0px;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  /*font-size: 20px;*/
+  font-size: 120%;
+  /*padding: 20px;*/
+  text-align: center;
+}
+
+/* When you mouse over the container, fade in the overlay title */
+.container:hover .overlay {
+  opacity: 1;
+}

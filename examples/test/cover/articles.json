@@ -1,0 +1,367 @@
+{
+    "statusCode": 200,
+    "data": [
+        {
+            "acIdentifier": [
+                "8813|150005"
+            ],
+            "identifierURI": [
+                "http://litteratursiden.dk/forfattere/peter-ovig-knudsen"
+            ],
+            "acSource": [
+                "Litteratursiden"
+            ],
+            "dcTitle": [
+                "Peter Øvig"
+            ],
+            "dcTitleFull": [
+                "Peter Øvig"
+            ],
+            "creatorAut": [
+                "Mads Damsø"
+            ],
+            "creatorSort": [
+                "Damsø, Mads"
+            ],
+            "subject": [
+                "Forfatterportrætter",
+                "Peter Øvig Knudsen",
+                "danske forfattere",
+                "danske forfattere 1950 til idag",
+                "nyere danske forfattere",
+                "Peter Øvig"
+            ],
+            "subjectGenre": [
+                "forfatterportræt"
+            ],
+            "dcLanguage": [
+                "Dansk"
+            ],
+            "languageISO6392": [
+                "dan"
+            ],
+            "abstract": [
+                "Peter Øvig  er optaget af at undersøge, hvad der får mennesker til at overskride samfundets normer, og han aktualiserer fortidens begivenheder med årsagsforklaringer og sans for spænding.  Peter Øvig ..."
+            ],
+            "audience": [
+                "voksenmaterialer"
+            ],
+            "publisher": [
+                "Litteratursiden"
+            ],
+            "typeBibDKType": [
+                "Artikel"
+            ],
+            "date": [
+                "2019"
+            ],
+            "accessType": [
+                "online"
+            ],
+            "creator": [
+                "Mads Damsø"
+            ],
+            "fedoraPid": [
+                "150005-portraet:8813"
+            ],
+            "pid": [
+                "150005-portraet:8813"
+            ],
+            "title": [
+                "Peter Øvig"
+            ],
+            "titleFull": [
+                "Peter Øvig"
+            ],
+            "type": [
+                "Artikel"
+            ],
+            "workType": [
+                "article"
+            ],
+            "hasOnlineAccess": [
+                "http://litteratursiden.dk/forfattere/peter-ovig-knudsen"
+            ]
+        },
+        {
+            "acIdentifier": [
+                "135486423|150010"
+            ],
+            "identifierURI": [
+                "http://search.ebscohost.com/login.aspx?direct=true&db=f5h&AN=135486423&site=ehost-live&EPSource=esi"
+            ],
+            "acSource": [
+                "Ebsco Masterfile"
+            ],
+            "dcTitle": [
+                "News Desk"
+            ],
+            "dcTitleFull": [
+                "News Desk"
+            ],
+            "dcCreator": [
+                "celeste peterson-sloss"
+            ],
+            "creatorSort": [
+                "peterson-sloss, celeste"
+            ],
+            "subject": [
+                "CONSOLIDATION & merger of corporations",
+                "ELECTRONIC publishing",
+                "LIBRARIES",
+                "PEER review (Professional performance)",
+                "PRESS",
+                "PUBLISHERS & publishing",
+                "OPEN access publishing"
+            ],
+            "description": [
+                "Article"
+            ],
+            "abstract": [
+                "The article offers library-related news briefs. It includes the acquisition of cloud software provider NextTier Education by Follett, EBSCO Information Services' acquisition of the bibliographic database Linguistics Abstracts Online from Wiley, and the merger of technology providers Eduserv and Jisc."
+            ],
+            "audience": [
+                "voksenmaterialer"
+            ],
+            "publisher": [
+                "Ebsco Masterfile"
+            ],
+            "date": [
+                "2019"
+            ],
+            "typeBibDKType": [
+                "Artikel"
+            ],
+            "extent": [
+                "1 side"
+            ],
+            "dcLanguage": [
+                "Engelsk"
+            ],
+            "languageISO6392": [
+                "eng"
+            ],
+            "isPartOf": [
+                "Computers in Libraries, Mar2019, Vol. 39 Issue 2, p28"
+            ],
+            "isPartOfISSN": [
+                "1041-7915"
+            ],
+            "spatial": [
+                "CUBA"
+            ],
+            "accessType": [
+                "online"
+            ],
+            "creator": [
+                "celeste peterson-sloss"
+            ],
+            "fedoraPid": [
+                "150010-master:135486423"
+            ],
+            "pid": [
+                "150010-master:135486423"
+            ],
+            "language": [
+                "Engelsk"
+            ],
+            "partOf": [
+                "Computers in Libraries, Mar2019, Vol. 39 Issue 2, p28"
+            ],
+            "title": [
+                "News Desk"
+            ],
+            "titleFull": [
+                "News Desk"
+            ],
+            "type": [
+                "Artikel"
+            ],
+            "workType": [
+                "article"
+            ],
+            "hasOnlineAccess": [
+                "http://search.ebscohost.com/login.aspx?direct=true&db=f5h&AN=135486423&site=ehost-live&EPSource=esi"
+            ]
+        },
+        {
+            "acIdentifier": [
+                "48571468|870971"
+            ],
+            "acSource": [
+                "Avisartikler"
+            ],
+            "dcTitle": [
+                "Hvis man bruger det, som står i Barnets Lov, i skilsmissesager, vil det være en katastrofe"
+            ],
+            "dcTitleFull": [
+                "Hvis man bruger det, som står i Barnets Lov, i skilsmissesager, vil det være en katastrofe"
+            ],
+            "creatorAut": [
+                "Olav Hergel"
+            ],
+            "creatorSort": [
+                "Hergel, Olav"
+            ],
+            "subjectDK5": [
+                "38.51"
+            ],
+            "subject": [
+                "Aktionsgruppen for Børns Velfærd"
+            ],
+            "subjectDBCF": [
+                "Barnets lov",
+                "anbragte børn",
+                "anbringelse uden for hjemmet",
+                "barnets tarv",
+                "børneforsorg",
+                "forældre",
+                "indberetning",
+                "tvangsfjernelser",
+                "udsatte børn",
+                "underretningspligt"
+            ],
+            "subjectDK5Text": [
+                "Forsorg for børn"
+            ],
+            "abstract": [
+                "Regeringen vil fjerne flere børn fra forældre, der ikke magter opgaven. Det kritiseres af fagfolk, der ønsker færre underretninger, afskaffelse af lov, som kriminaliserer skoleledere og andre, der ikke underretter i tide og vil bekæmpe \"Barnets Lov\" i dens aktuelle udformning"
+            ],
+            "audience": [
+                "gymnasieniveau",
+                "alment niveau",
+                "voksenmaterialer"
+            ],
+            "date": [
+                "2020"
+            ],
+            "typeBibDKType": [
+                "Avisartikel"
+            ],
+            "format": [
+                "illustreret"
+            ],
+            "extent": [
+                "Sektion 1, s. 4"
+            ],
+            "languageISO6392": [
+                "dan"
+            ],
+            "dcLanguage": [
+                "Dansk"
+            ],
+            "isPartOf": [
+                "Politiken, 2020-07-16"
+            ],
+            "isPartOfISSN": [
+                "0907-1814"
+            ],
+            "accessType": [
+                "online"
+            ],
+            "creator": [
+                "Olav Hergel"
+            ],
+            "fedoraPid": [
+                "870971-avis:48571468"
+            ],
+            "pid": [
+                "870971-avis:48571468"
+            ],
+            "language": [
+                "Dansk"
+            ],
+            "partOf": [
+                "Politiken, 2020-07-16"
+            ],
+            "title": [
+                "Hvis man bruger det, som står i Barnets Lov, i skilsmissesager, vil det være en katastrofe"
+            ],
+            "titleFull": [
+                "Hvis man bruger det, som står i Barnets Lov, i skilsmissesager, vil det være en katastrofe"
+            ],
+            "type": [
+                "Avisartikel"
+            ],
+            "workType": [
+                "article"
+            ],
+            "hasOnlineAccess": [
+                "[useraccessinfomedia]?action=getArticle&faust=48571468&infomediaId=e7cbc460&libraryCode=[libraryCode]&userId=[userId]&userPinCode=[userPinCode]"
+            ],
+            "isPartOfManifestation": [
+                "726500-katalog:03243850"
+            ]
+        },
+        {
+            "acIdentifier": [
+                "03243850|726500"
+            ],
+            "identifierISSN": [
+                "0907-1814"
+            ],
+            "acSource": [
+                "Bibliotekskatalog"
+            ],
+            "dcTitle": [
+                "Politiken"
+            ],
+            "dcTitleFull": [
+                "Politiken"
+            ],
+            "subjectDK5": [
+                "05.16"
+            ],
+            "subjectDK5Text": [
+                "Aviser. Danmark"
+            ],
+            "subject": [
+                "Danske aviser"
+            ],
+            "description": [
+                "Findes også i mikroform",
+                "29. Aarg, Nr. 378 (15. December 1912) haves også i formindsket facsimileudgave",
+                "Også på internettet: Politiken e-avis"
+            ],
+            "audience": [
+                "voksenmaterialer"
+            ],
+            "publisher": [
+                "Politiken"
+            ],
+            "date": [
+                "1884"
+            ],
+            "typeBibDKType": [
+                "Avis"
+            ],
+            "languageISO6392": [
+                "dan"
+            ],
+            "dcLanguage": [
+                "Dansk"
+            ],
+            "accessType": [
+                "physical"
+            ],
+            "fedoraPid": [
+                "870970-basis:03243850"
+            ],
+            "pid": [
+                "726500-katalog:03243850"
+            ],
+            "title": [
+                "Politiken"
+            ],
+            "titleFull": [
+                "Politiken"
+            ],
+            "type": [
+                "Avis"
+            ],
+            "workType": [
+                "periodica"
+            ]
+        }
+    ]
+}
