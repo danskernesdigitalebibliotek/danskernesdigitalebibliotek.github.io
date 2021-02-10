@@ -362,6 +362,331 @@
             "workType": [
                 "periodica"
             ]
+        },
+        {
+            "acIdentifier": [
+                "47498902|870971"
+            ],
+            "acSource": [
+                "Avisartikler"
+            ],
+            "dcTitle": [
+                "Du svigtede min far, din avis og dine læsere, Lasse Ellegaard"
+            ],
+            "dcTitleFull": [
+                "Du svigtede min far, din avis og dine læsere, Lasse Ellegaard"
+            ],
+            "creatorAut": [
+                "Søren Villemoes"
+            ],
+            "creatorSort": [
+                "Villemoes, Søren"
+            ],
+            "subjectDK5": [
+                "07.96"
+            ],
+            "subjectDBCF": [
+                "Blekingegadebanden",
+                "Information (avis)",
+                "journalistik"
+            ],
+            "subject": [
+                "Lars Villemoes (f. 1953)",
+                "Lasse Ellegaard"
+            ],
+            "subjectSort": [
+                "Villemoes, Lars (f. 1953)",
+                "Ellegaard, Lasse"
+            ],
+            "subjectDK5Text": [
+                "Pressens historie. Danmark"
+            ],
+            "subjectDBCO": [
+                "kronikker"
+            ],
+            "abstract": [
+                "Som daværende chefredaktør på Information tog Lasse Ellegaard beslutningen om at sætte min far af sagen om Blekingegadebanden. Min far blev beskyldt for at bryde med journalistiske principper, men reelt var det Ellegaard, der valgte den trygge løgn frem for den ubekvemme sandhed"
+            ],
+            "audience": [
+                "gymnasieniveau",
+                "alment niveau",
+                "voksenmaterialer"
+            ],
+            "date": [
+                "2019"
+            ],
+            "typeBibDKType": [
+                "Avisartikel"
+            ],
+            "format": [
+                "illustreret"
+            ],
+            "extent": [
+                "S. 12-13"
+            ],
+            "languageISO6392": [
+                "dan"
+            ],
+            "dcLanguage": [
+                "Dansk"
+            ],
+            "isPartOf": [
+                "Information, 2019-12-06"
+            ],
+            "isPartOfISSN": [
+                "1602-2572"
+            ],
+            "accessType": [
+                "online"
+            ],
+            "creator": [
+                "Søren Villemoes"
+            ],
+            "fedoraPid": [
+                "870971-avis:47498902"
+            ],
+            "pid": [
+                "870971-avis:47498902"
+            ],
+            "language": [
+                "Dansk"
+            ],
+            "partOf": [
+                "Information, 2019-12-06"
+            ],
+            "title": [
+                "Du svigtede min far, din avis og dine læsere, Lasse Ellegaard"
+            ],
+            "titleFull": [
+                "Du svigtede min far, din avis og dine læsere, Lasse Ellegaard"
+            ],
+            "type": [
+                "Avisartikel"
+            ],
+            "workType": [
+                "article"
+            ],
+            "hasOnlineAccess": [
+                "[useraccessinfomedia]?action=getArticle&faust=47498902&infomediaId=e779d30b&libraryCode=[libraryCode]&userId=[userId]&userPinCode=[userPinCode]"
+            ],
+            "isPartOfManifestation": [
+                "726500-katalog:03243095"
+            ]
+        },
+        {
+            "acIdentifier": [
+                "35250115|870971"
+            ],
+            "acSource": [
+                "Avisartikler"
+            ],
+            "dcTitle": [
+                "Historien om den militante venstrefløj"
+            ],
+            "dcTitleFull": [
+                "Historien om den militante venstrefløj"
+            ],
+            "titleSeries": [
+                "50 år - 50 bøger"
+            ],
+            "creatorAut": [
+                "Rasmus Karkov"
+            ],
+            "creatorSort": [
+                "Karkov, Rasmus"
+            ],
+            "subjectDK5": [
+                "34.31"
+            ],
+            "subjectDBCF": [
+                "Blekingegadebanden",
+                "Blekingegadebanden (bog)",
+                "aktivisme",
+                "international terrorisme",
+                "kriminalsager",
+                "terrorisme",
+                "venstrefløjen"
+            ],
+            "subjectDK5Text": [
+                "Kriminologi. Forbrydelser"
+            ],
+            "subject": [
+                "Peter Øvig Knudsen"
+            ],
+            "subjectSort": [
+                "Øvig Knudsen, Peter"
+            ],
+            "abstract": [
+                "\"Blekingegadebanden\" står som et monument over journalistisk dokumenterede bøger. Men samtidig rummer den også dybt i sine sætninger forfatterens personlige historie fra en periode i livet"
+            ],
+            "audience": [
+                "gymnasieniveau",
+                "alment niveau",
+                "voksenmaterialer"
+            ],
+            "date": [
+                "2012"
+            ],
+            "typeBibDKType": [
+                "Avisartikel"
+            ],
+            "format": [
+                "illustreret"
+            ],
+            "extent": [
+                "Sektion 1 (østudgave), s. 26-27"
+            ],
+            "languageISO6392": [
+                "dan"
+            ],
+            "dcLanguage": [
+                "Dansk"
+            ],
+            "isPartOf": [
+                "Jyllands-posten, 2012-08-09"
+            ],
+            "isPartOfISSN": [
+                "0109-1182"
+            ],
+            "spatialDBCF": [
+                "Danmark"
+            ],
+            "temporalDBCP": [
+                "1970-1979",
+                "1980-1989"
+            ],
+            "accessType": [
+                "online"
+            ],
+            "creator": [
+                "Rasmus Karkov"
+            ],
+            "fedoraPid": [
+                "870971-avis:35250115"
+            ],
+            "pid": [
+                "870971-avis:35250115"
+            ],
+            "language": [
+                "Dansk"
+            ],
+            "partOf": [
+                "Jyllands-posten, 2012-08-09"
+            ],
+            "title": [
+                "Historien om den militante venstrefløj"
+            ],
+            "titleFull": [
+                "Historien om den militante venstrefløj"
+            ],
+            "type": [
+                "Avisartikel"
+            ],
+            "workType": [
+                "article"
+            ],
+            "hasOnlineAccess": [
+                "[useraccessinfomedia]?action=getArticle&faust=35250115&infomediaId=e35a413c&libraryCode=[libraryCode]&userId=[userId]&userPinCode=[userPinCode]"
+            ]
+        },
+        {
+            "acIdentifier": [
+                "37423459|870971"
+            ],
+            "acSource": [
+                "Tidsskriftsartikler"
+            ],
+            "dcTitle": [
+                "Hanö - en stolt kæmpe på 60 meter"
+            ],
+            "dcTitleFull": [
+                "Hanö - en stolt kæmpe på 60 meter"
+            ],
+            "creatorAut": [
+                "Malene Gude"
+            ],
+            "creatorSort": [
+                "Gude, Malene"
+            ],
+            "subjectDK5": [
+                "45.8 Hanö"
+            ],
+            "subjectDK5Text": [
+                "Enkelte lokaliteter"
+            ],
+            "subjectDBCF": [
+                "lystsejlads",
+                "skærgården"
+            ],
+            "abstract": [
+                "På tursejlads i Blekinge-skærgården"
+            ],
+            "audience": [
+                "alment niveau",
+                "voksenmaterialer"
+            ],
+            "date": [
+                "2017"
+            ],
+            "typeBibDKType": [
+                "Tidsskriftsartikel"
+            ],
+            "format": [
+                "illustreret"
+            ],
+            "extent": [
+                "S. 16-20, 22"
+            ],
+            "languageISO6392": [
+                "dan"
+            ],
+            "dcLanguage": [
+                "Dansk"
+            ],
+            "isPartOf": [
+                "Bådnyt, 2017, nr. 528"
+            ],
+            "isPartOfISSN": [
+                "1603-0907"
+            ],
+            "spatialDBCF": [
+                "Blekinge",
+                "Hanö",
+                "Sverige"
+            ],
+            "accessType": [
+                "physical"
+            ],
+            "creator": [
+                "Malene Gude"
+            ],
+            "fedoraPid": [
+                "870971-tsart:37423459"
+            ],
+            "pid": [
+                "870971-tsart:37423459"
+            ],
+            "language": [
+                "Dansk"
+            ],
+            "partOf": [
+                "Bådnyt, 2017, nr. 528"
+            ],
+            "title": [
+                "Hanö - en stolt kæmpe på 60 meter"
+            ],
+            "titleFull": [
+                "Hanö - en stolt kæmpe på 60 meter"
+            ],
+            "type": [
+                "Tidsskriftsartikel"
+            ],
+            "workType": [
+                "article"
+            ],
+            "isPartOfManifestation": [
+                "726500-katalog:49304188"
+            ]
         }
     ]
 }
