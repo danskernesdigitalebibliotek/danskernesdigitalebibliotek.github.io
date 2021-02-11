@@ -1,0 +1,17 @@
+@startsalt
+{^"cover"
+  Hover: "partOf" | "acSource"
+  Background: error.jpg
+  Source: $ID.jpg
+{
+{T
+ + $ID
+ ++isPartOfISSN
+ ++ identifierISSN
+ ++ acSource
+}
+}
+"dcTitleFull" | "(date)" | "/ creator"
+
+}
+@endsalt
