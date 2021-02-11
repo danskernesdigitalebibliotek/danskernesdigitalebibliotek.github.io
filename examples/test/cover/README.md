@@ -16,6 +16,8 @@ Meta data and provider are matched using:
 
 On no match a default background image (Here maked "Uden forside") is displayed.
 
+![Wireframe](generic-article.jpg)
+
 A prebuild example is in [articles.html](articles.html) build using a [PHP script](articles.php) and simple [CSS-styling](mystyle.css)
 
 Run to rebuild:
