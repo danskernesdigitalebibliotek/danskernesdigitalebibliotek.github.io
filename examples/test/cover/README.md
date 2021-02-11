@@ -2,8 +2,8 @@
 ## Using provider logo and text overlay
 > 2021-02-10T16:47:52 / Erik Bachmann
 
-IF a cover is not provided by Cover Service 
-THEN try to build a generic cover based on  provider logo with title / creator and providor info as a text overlay
+- IF a cover is not provided by Cover Service 
+- THEN try to build a generic cover based on  provider logo with title / creator and providor info as a text overlay
 
 Logos must be generic and build before loading [See: /logo](/logo) with uniq ID's like ISSN or source (acSource).
 
