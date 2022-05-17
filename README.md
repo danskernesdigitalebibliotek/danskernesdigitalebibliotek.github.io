@@ -5,7 +5,7 @@
 # Index to Det Digitale Folkebibliotek
 
 <img src="DDB_logo_green.300.png" alt="DDB" title="DDB" align="right" width=100px height=auto style='filter:brightness(80%);'>
-*Danskernes Digitale Bibliotek* (AKA [The Danish Digital Library](https://www.danskernesdigitalebibliotek.dk/english/) (DDL) has transformed into *Det Digitale Folkebibliotek* (_The Digital Public Library_). However - the domain for source and documentation has not changed.
+*Danskernes Digitale Bibliotek* (AKA The Danish Public Library) has transformed into *Det Digitale Folkebibliotek* (_The Digital Public Library_) [The Danish Digital Library](https://detdigitalefolkebibliotek.dk/) (Danish). However - the domain for source and documentation has not changed.
 
 ## Projects
 * [Architecture](/architecture/) 
